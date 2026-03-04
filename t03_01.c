@@ -28,7 +28,6 @@ int main() {
         if (current_num > max_val) {
             max_val = current_num;
         }
-
         // Perhitungan rata-rata berurutan (Tugas 2 dan Tugas 3)
         if (i > 0) { // Hanya mulai menghitung rata-rata setelah ada dua angka
             double current_avg = (double)(prev_num + current_num) / 2.0;

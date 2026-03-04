@@ -21,7 +21,6 @@ int main() {
             max_val = current_val;
         }
     }
-
     // Menampilkan hasil sesuai spesifikasi Tugas 1
     printf("%d\n", min_val); // Nilai terkecil
     printf("%d\n", max_val); // Nilai terbesar

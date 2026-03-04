@@ -41,7 +41,6 @@ int main() {
             }
         }
     }
-
     // Menampilkan hasil sesuai spesifikasi Tugas 2
     printf("%d\n", min_val); // Nilai terkecil
     printf("%d\n", max_val); // Nilai terbesar
