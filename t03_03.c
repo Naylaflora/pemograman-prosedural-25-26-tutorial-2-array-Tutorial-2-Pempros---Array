@@ -27,4 +27,4 @@ int main() {
     printf("%d\n", max_val); // Nilai terbesar
 
     return 0; // Mengakhiri program dengan sukses
-}
+} 

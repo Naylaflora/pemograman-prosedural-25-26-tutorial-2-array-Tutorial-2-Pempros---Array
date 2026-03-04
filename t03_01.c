@@ -50,4 +50,4 @@ int main() {
     printf("%.2f\n", max_avg_consecutive);
 
     return 0;
-}
+} 
